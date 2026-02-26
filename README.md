@@ -5,7 +5,7 @@ My third evaluated program for an academic course.
 This program was coded to answer a specific question for an evaluation in an academic course. It's a basic currency converter.
 
 ## Features
-- Basic Python coding with loops and logic  
+- Basic C++ coding with loops and logic  
 - Lightly commented due to simplicity
 - Structured code for readability
 
