@@ -17,7 +17,7 @@ This program was coded to answer a specific question for an evaluation in an aca
 ## Usage
 1. Open 'TN1ex1.cpp' in a C++ IDE
 2. Follow the program promps as needed
-3. At the end, the program shows the conerted currency
+3. At the end, the program shows the converted currency
 
 ## Notes
 - Coded in 2025 during my Bachelor's degree
