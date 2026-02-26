@@ -12,7 +12,7 @@ This program was coded to answer a specific question for an evaluation in an aca
 ## Skills Highlighted
 - Programming in C++
 - Basic progamming logic
-- Basic input validation and self adjusting width columns in the table
+- Basic input validation and self adjusting columns width of the table
 
 ## Usage
 1. Open 'TN1ex1.cpp' in a C++ IDE
